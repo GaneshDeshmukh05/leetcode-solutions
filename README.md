@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GaneshDeshmukh05/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/GaneshDeshmukh05/leetcode-solutions/tree/master/0011-container-with-most-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GaneshDeshmukh05/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/GaneshDeshmukh05/leetcode-solutions/tree/master/0011-container-with-most-water) |
 ## String
 |  |
 | ------- |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/GaneshDeshmukh05/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/GaneshDeshmukh05/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
