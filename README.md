@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/GaneshDeshmukh05/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/GaneshDeshmukh05/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 ## Greedy
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GaneshDeshmukh05/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/GaneshDeshmukh05/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 ## Stack
 |  |
 | ------- |
